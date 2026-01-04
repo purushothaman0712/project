@@ -7,5 +7,5 @@ elif(b>a and b>c):
     largest=b
 else:
     largest=c
-    print("larjest number:",largest)
+    print("largest number:",largest)
 
